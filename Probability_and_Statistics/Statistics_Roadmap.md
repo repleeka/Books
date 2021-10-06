@@ -2,6 +2,7 @@
 ### How to Learn Statistics for Data Science As A Self Starter
 >Compiled by:-
 >>Tungon Dugi
+>>
 >>Email: tungondugi@gmail.com
 
 ---
